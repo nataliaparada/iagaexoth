@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theevieno.lvivadvokaty.com/sitemap.xml
